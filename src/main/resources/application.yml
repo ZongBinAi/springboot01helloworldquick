@@ -1,0 +1,11 @@
+persion:
+  name: zhangsan
+  age: 18
+  boss: true
+  maps: {k1: v1,k2: 12}
+  lists:
+    - xxx
+    - zzz
+  dog:
+    name: 大黄
+    age: 3
